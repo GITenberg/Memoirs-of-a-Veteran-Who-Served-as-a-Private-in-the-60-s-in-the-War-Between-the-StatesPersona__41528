@@ -1,0 +1,35 @@
+_repo: Memoirs-of-a-Veteran-Who-Served-as-a-Private-in-the-60-s-in-the-War-Between-the-StatesPersona__41528
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41528-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hermann, I. (Isaac)
+    alias: Hermann, Isaac
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '41220'
+    url: http://www.gutenberg.org/2009/agents/41220
+description: ''
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41528'
+  lccn: '11001721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confederate States of America. Army. Georgia Artillery. Martin''s Battery'
+- !lcsh 'Confederate States of America. Army. Georgia Infantry Regiment, 1st (1861-1862)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Confederate States of America. Army. Georgia Artillery. Howell''s Battery'
+- !lcc 'E456'
+title: 'Memoirs of a Veteran Who Served as a Private in the 60''s in the War Between
+  the States
+
+  Personal Incidents, Experiences and Observations'
+url: http://www.gutenberg.org/ebooks/41528
