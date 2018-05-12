@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41220'
     url: http://www.gutenberg.org/2009/agents/41220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41528#Memoirs-of-a-Veteran-Who-Served-as-a-Private-in-the-60-s-in-the-War-Between-the-StatesPersona_
 gutenberg_issued: '2012-12-01'
 gutenberg_type: Text
 identifiers:
